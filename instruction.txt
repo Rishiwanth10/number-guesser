@@ -1,0 +1,8 @@
+🎯 Number Guesser Game Instructions
+
+1. The computer selects a random number between 1 and 10.
+2. You must guess the number.
+3. The game tells you if your guess is correct.
+4. Enjoy playing!
+
+Created by: Rishiwanth Raja
